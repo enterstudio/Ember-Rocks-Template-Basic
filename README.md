@@ -14,6 +14,7 @@ Ember Rocks Template Basic
 ## Usage
 
 `$ npm install -g ember-rocks`
+
 `$ em new my-app --path https://github.com/mattma/ember-rocks-template-basic`
 
 After you successfully install [ember-rock](https://github.com/mattma/ember-rocks) in your computer, you will have `em` command global available, run the helper message via `em -h` or `em generate --help` to see how to use the program. Essentially, [ember-cli](http://www.ember-cli.com/) projects's resolver, modules, naming conventions should apply to [ember-rock](https://github.com/mattma/ember-rocks) as well.
